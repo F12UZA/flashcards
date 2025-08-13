@@ -21,4 +21,16 @@ criaCartao(
 criaCartao(
     "Programação",
     "Quais são os setores do agronegócio?",
+    "primário, secundário e terciário"
+)
+criaCartao(
+    "Programação",
+    "qual carro vc tem?",
+    "gol G4"
+)
+criaCartao(
+    "Programação",
+    "Fixa ou suspensão a ar?",
+    "fixa carro baixo não corre ele desfila"
+
 )
